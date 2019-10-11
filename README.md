@@ -1,1 +1,1 @@
-# R-and-R-Shiny-repository
+# R and R Shiny repository
